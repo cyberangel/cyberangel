@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberangel
 - 👀 I’m interested in Programming and advising others about it
-- 🌱 I’m currently learning How to survive in a world invaded by Russia
+- 🌱 I’m currently learning French and Python
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me: j.pacuta@gmail.com
 
